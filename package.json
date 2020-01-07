@@ -1,0 +1,20 @@
+{
+  "name": "poschapin",
+  "version": "1.0.0",
+  "description": "Modulo para generar claves y poderse conectar a un api-rcombro en linea de tarjetas de credito o debito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhklik/poschapindeploynodejs.git"
+  },
+  "keywords": [],
+  "author": "Humberto Herrador",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhklik/poschapindeploynodejs/issues"
+  },
+  "homepage": "https://github.com/hhklik/poschapindeploynodejs#readme"
+}
